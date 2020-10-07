@@ -1,0 +1,87 @@
+Chubuntu_2.0/
+├── Chubuntu_1.1.sh
+├── images
+└── sources
+    ├── accueuil.py
+    ├── bin
+    ├── blocknote.py
+    ├── c1_1DBR.sh
+    ├── c1_1DBS.sh
+    ├── calculette.py
+    ├── cogs
+    │   ├── class.py
+    │   ├── cog.py
+    │   └── __pycache__
+    │       └── cog.cpython-36.pyc
+    ├── current.py
+    ├── dictionnaire.py
+    ├── discord
+    │   ├── bot1.py
+    │   ├── bot2.py
+    │   ├── messages
+    │   ├── nbr
+    │   ├── sended
+    │   └── settings.txt
+    ├── discord.py
+    ├── executeur
+    ├── fichier.py
+    ├── fichiers
+    │   ├── poubelle
+    │   ├── script
+    │   └── texte
+    │       └── arborescences_Chub.txt
+    ├── game
+    │   ├── fond.png
+    │   ├── game.py
+    │   ├── goose.png
+    │   ├── goose.py
+    │   ├── jeu.py
+    │   ├── pas.png
+    │   ├── pas.py
+    │   └── __pycache__
+    │       ├── game.cpython-36.pyc
+    │       ├── goose.cpython-36.pyc
+    │       └── pas.cpython-36.pyc
+    ├── game.py
+    ├── IDE.py
+    ├── images
+    │   ├── blanc.png
+    │   ├── fond.png
+    │   ├── mousepointer.png
+    │   └── window.png
+    ├── installateur_packet
+    │   └── paquets.txt
+    ├── internet.py
+    ├── ipython.html
+    ├── liste_francais.txt
+    ├── main.py
+    ├── packchub.py
+    ├── player.py
+    ├── __pycache__
+    │   ├── classe.cpython-36.pyc
+    │   ├── game.cpython-36.pyc
+    │   ├── main.cpython-36.pyc
+    │   ├── player.cpython-36.pyc
+    │   └── window.cpython-36.pyc
+    ├── settings
+    │   ├── admin.txt
+    │   ├── bg.txt
+    │   ├── color
+    │   ├── colors
+    │   ├── jeu.txt
+    │   ├── login
+    │   ├── login.txt
+    │   ├── Nom.txt
+    │   ├── saved_command.txt
+    │   ├── sombre
+    │   └── tercolor.txt
+    ├── terminal.py
+    ├── test.py
+    ├── window.py
+    ├── zapaovi.png
+    └── z-ploc
+        ├── __pycache__
+        │   └── zploc.cpython-36.pyc
+        ├── sanstitre2.py
+        └── zploc.py
+
